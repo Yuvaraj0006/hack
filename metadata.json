@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Pruning Optimizer",
+  "description": "Optimize user prompts by removing redundant, repetitive, or unnecessary words while preserving original intent, context, and meaning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
